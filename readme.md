@@ -1,0 +1,1 @@
+Estos estilos seran ejecutados con sass, esto es un texto con un efecto de hover de una iluminacion blanca en un texto
